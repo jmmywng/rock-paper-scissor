@@ -1,0 +1,1 @@
+Practicing JS from scratch... Still a WIP, will revisit once improve. 
